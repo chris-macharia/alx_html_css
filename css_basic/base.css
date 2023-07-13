@@ -203,7 +203,7 @@ h6 {
   	display: block;
   }
   body.works_on_smartphone main {
-  	display: flex;
+  	display: block;
   }
   header .right {
   	float: none;
