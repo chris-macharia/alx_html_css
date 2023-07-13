@@ -185,15 +185,19 @@
     padding: 0;
     list-style: none;
   }
+
+	.row{
+		display: flex;
+	}
   
-  .row::after {
+  /* .row::after {
     content: '';
     display: table;
     clear: both;
   }
-  
+   */
+	
   [class*='col-'] {
-    float: left;
     padding: 0.5rem;
   }
   
