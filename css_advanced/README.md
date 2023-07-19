@@ -1,0 +1,1 @@
+# This project focuses on styling the html page we wrote in the html_advanced project.
